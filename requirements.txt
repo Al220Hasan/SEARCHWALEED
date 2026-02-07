@@ -1,0 +1,15 @@
+tkinter
+customtkinter
+webbrowser
+requests
+json
+os
+logging
+datetime 
+typing 
+dataclasses 
+Enum
+threading
+ Queue
+sqlite3
+pathlib
